@@ -44,9 +44,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Main.cs" />
     <Compile Include="IServiceChat.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServerUser.cs" />
     <Compile Include="ServiceChat.cs" />
   </ItemGroup>
   <ItemGroup>

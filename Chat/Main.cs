@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chat
 {
-    public class Class1
+    public class Main
     {
     }
 }
